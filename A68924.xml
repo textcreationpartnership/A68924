@@ -1,0 +1,2745 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Writing tables vvith a kalender for xxiiii. yeeres, with sundry necessarye rules.</title>
+            <author>Adams, Frank, fl. 1559-1601.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1594</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68924</idno>
+            <idno type="STC">STC 26049.16</idno>
+            <idno type="STC">ESTC S550</idno>
+            <idno type="EEBO-CITATION">99857728</idno>
+            <idno type="PROQUEST">99857728</idno>
+            <idno type="VID">23531</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68924)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 23531)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 450:9, 1760:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Writing tables vvith a kalender for xxiiii. yeeres, with sundry necessarye rules.</title>
+                  <author>Adams, Frank, fl. 1559-1601.</author>
+               </titleStmt>
+               <extent>[64] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>By [R. Watkins and J. Roberts for] Frauncis Adams, stationer or bookbinder, dwelling in Distaffe lane, neare olde fishstreete, at the signe of the Aqua vite still, and are there to be sold,</publisher>
+                  <pubPlace>Made at London :</pubPlace>
+                  <date>Anno. Domi. 1594.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actual printers' names from STC.</note>
+                  <note>Signatures: A-D.</note>
+                  <note>Gathered at the top.</note>
+                  <note>Identified as STC 102 on UMI microfilm reel 450.</note>
+                  <note>Reproductions of the original in Cambridge University Library.</note>
+                  <note>Appears at reels 450 and 1760 (same copy filmed twice).</note>
+                  <note>Mutilated. Reel 450: only quire A filmed. Reel 1760: lacking C7; creased, faded, stained, tightly bound and torn, with some loss of print.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs, English --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <figure>
+               <figDesc>modern bookplate bearing coat of arms of Tobias Rustat</figDesc>
+               <head>Munificentia Tobiae Rustat</head>
+            </figure>
+            <pb facs="tcp:23531:1" rendition="simple:additions"/>
+            <p>∥ <hi>Writing Tables vvith a Kalender for xxiiii. yeeres, with ſundry neceſſarye rules.</hi>
+            </p>
+            <p>☞ <hi>Made at London by</hi> Frauncis Adams, Stati<g ref="char:EOLhyphen"/>oner or Bookbinder, dwel<g ref="char:EOLhyphen"/>ling in Diſtaffe lane, neare olde fiſhſtreete, at the ſigne of the Aqua vite ſtill, and are there to be ſold.</p>
+            <p>Anno. Domi.</p>
+            <p>1594.</p>
+         </div>
+      </front>
+      <body>
+         <div type="almanac">
+            <pb facs="tcp:23531:2" rendition="simple:additions"/>
+            <head>An Almanake, for .xxiiij. yeeres.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Anno do<g ref="char:EOLhyphen"/>mini.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>Leap yere Sundayes Letter.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Eaſter.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Prime, or Golden Number.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Epact.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1580</cell>
+                     <cell>C</cell>
+                     <cell>B</cell>
+                     <cell>iij. Aprill.</cell>
+                     <cell>iiij</cell>
+                     <cell>xiiij</cell>
+                  </row>
+                  <row>
+                     <cell>1581</cell>
+                     <cell>A</cell>
+                     <cell> </cell>
+                     <cell>xxvi. Marche.</cell>
+                     <cell>v</cell>
+                     <cell>xxv</cell>
+                  </row>
+                  <row>
+                     <cell>1582</cell>
+                     <cell>G</cell>
+                     <cell> </cell>
+                     <cell>xv. April.</cell>
+                     <cell>vj</cell>
+                     <cell>vi</cell>
+                  </row>
+                  <row>
+                     <cell>1583</cell>
+                     <cell>F</cell>
+                     <cell> </cell>
+                     <cell>xxxj. Marche.</cell>
+                     <cell>vij</cell>
+                     <cell>xvij</cell>
+                  </row>
+                  <row>
+                     <cell>1584</cell>
+                     <cell>E</cell>
+                     <cell>D</cell>
+                     <cell>xix. April.</cell>
+                     <cell>viij</cell>
+                     <cell>xxviij</cell>
+                  </row>
+                  <row>
+                     <cell>1585</cell>
+                     <cell>C</cell>
+                     <cell> </cell>
+                     <cell>xj. April.</cell>
+                     <cell>ix</cell>
+                     <cell>ix</cell>
+                  </row>
+                  <row>
+                     <cell>1586</cell>
+                     <cell>B</cell>
+                     <cell> </cell>
+                     <cell>iij. April.</cell>
+                     <cell>x</cell>
+                     <cell>xx</cell>
+                  </row>
+                  <row>
+                     <cell>1587</cell>
+                     <cell>A</cell>
+                     <cell> </cell>
+                     <cell>xvi. April.</cell>
+                     <cell>xi</cell>
+                     <cell>j</cell>
+                  </row>
+                  <row>
+                     <cell>1588</cell>
+                     <cell>G</cell>
+                     <cell>F</cell>
+                     <cell>vij. April.</cell>
+                     <cell>xij</cell>
+                     <cell>xij</cell>
+                  </row>
+                  <row>
+                     <cell>1589</cell>
+                     <cell>E</cell>
+                     <cell> </cell>
+                     <cell>xxx. Marche.</cell>
+                     <cell>xiij</cell>
+                     <cell>xxiii</cell>
+                  </row>
+                  <row>
+                     <cell>1590</cell>
+                     <cell>D</cell>
+                     <cell> </cell>
+                     <cell>xix. April.</cell>
+                     <cell>xiiij</cell>
+                     <cell>iiij</cell>
+                  </row>
+                  <row>
+                     <cell>1591</cell>
+                     <cell>C</cell>
+                     <cell> </cell>
+                     <cell>i iij. April.</cell>
+                     <cell>xv</cell>
+                     <cell>xv</cell>
+                  </row>
+                  <row>
+                     <cell>1592</cell>
+                     <cell>B</cell>
+                     <cell>A</cell>
+                     <cell>xxvi. Marche.</cell>
+                     <cell>xvj</cell>
+                     <cell>xxvj</cell>
+                  </row>
+                  <row>
+                     <cell>1593</cell>
+                     <cell>G</cell>
+                     <cell> </cell>
+                     <cell>xv. April.</cell>
+                     <cell>xvij</cell>
+                     <cell>vij</cell>
+                  </row>
+                  <row>
+                     <cell>1594</cell>
+                     <cell>F</cell>
+                     <cell> </cell>
+                     <cell>xxxi. Marche.</cell>
+                     <cell>xviij</cell>
+                     <cell>xviij</cell>
+                  </row>
+                  <row>
+                     <cell>1595</cell>
+                     <cell>E</cell>
+                     <cell> </cell>
+                     <cell>xx. April.</cell>
+                     <cell>xix</cell>
+                     <cell>xxix</cell>
+                  </row>
+                  <row>
+                     <cell>1596</cell>
+                     <cell>D</cell>
+                     <cell>C</cell>
+                     <cell>xj. April.</cell>
+                     <cell>j</cell>
+                     <cell>x</cell>
+                  </row>
+                  <row>
+                     <cell>1597</cell>
+                     <cell>B</cell>
+                     <cell>xxvij. March.</cell>
+                     <cell>ij</cell>
+                     <cell>xxi</cell>
+                  </row>
+                  <row>
+                     <cell>1598</cell>
+                     <cell>A</cell>
+                     <cell> </cell>
+                     <cell>xvi. April.</cell>
+                     <cell>iij</cell>
+                     <cell>ij</cell>
+                  </row>
+                  <row>
+                     <cell>1599</cell>
+                     <cell>G</cell>
+                     <cell> </cell>
+                     <cell>viij. April.</cell>
+                     <cell>iiij</cell>
+                     <cell>xiii</cell>
+                  </row>
+                  <row>
+                     <cell>1600</cell>
+                     <cell>F</cell>
+                     <cell>E</cell>
+                     <cell>xxiij. Marche.</cell>
+                     <cell>v</cell>
+                     <cell>xxiiij</cell>
+                  </row>
+                  <row>
+                     <cell>1601</cell>
+                     <cell>D</cell>
+                     <cell> </cell>
+                     <cell>xij. April.</cell>
+                     <cell>vj</cell>
+                     <cell>v</cell>
+                  </row>
+                  <row>
+                     <cell>1602</cell>
+                     <cell>C</cell>
+                     <cell> </cell>
+                     <cell>iiij. April.</cell>
+                     <cell>vij</cell>
+                     <cell>xvi</cell>
+                  </row>
+                  <row>
+                     <cell>1603</cell>
+                     <cell>B</cell>
+                     <cell> </cell>
+                     <cell>xxiiij. aprill.</cell>
+                     <cell>viij</cell>
+                     <cell>xxvii</cell>
+                  </row>
+               </table>
+            </p>
+            <div type="rule">
+               <pb facs="tcp:23531:2"/>
+               <head>A rule to knowe the chaunge, full, and quarters of the Moone for euer, which ye may doo by heart, knowing the Epact.</head>
+               <p>LOoke in the table made of purpoſe, on the o<g ref="char:EOLhyphen"/>ther ſide of this leafe, for the Epact, which is a number deuiſed to know the chaunge for euer. which number of Epact, ſtandeth vnder this tytle Epact, and is right againſt the yeres of our Lorde and to know the chaunge of the moone do this, en<g ref="char:EOLhyphen"/>ter the table, and looke for the number of the epact, for that yeere you would knowe the chaunge, then reckon howe many moneths are paſt from march vnto the moneth you would know the change, rec<g ref="char:EOLhyphen"/>koning march for one, and the moneth you are in for an other, as I would know on what day of the moneth of December 1594. the moone chaungeth: the Epact is xviij. from March to December are 10. months, (reckoning March and December for twoof the number) which 10. adde to the Epact 18. which maketh 28. which 28. alſo take from 30. ſo reſt 2. on which day the moone changeth. Note that the Epact beginneth in March. and not in Ianuary: ſo that Ianuary and February bee the laſt in number of the 12. Note alſo, that if y<hi rend="sup">e</hi> num<g ref="char:EOLhyphen"/>bers amount vnto aboue 30. the 30, being caſt out, the remaine that is left muſt be taken from 30: if it be vnder 30, take that alſo from 30. and the re<g ref="char:EOLhyphen"/>maine is the day of the change of the moone. Not<g ref="char:EOLhyphen"/>withſtanding, if there be 31. daies in a month, then take the remaine from 30. if but 30. dayes in the
+<pb facs="tcp:23531:3"/>
+moneth, then take the remaine from 29. as for ex<g ref="char:EOLhyphen"/>ample: the Epact 1594. is 18. from March to A<g ref="char:EOLhyphen"/>prill 2. which added is 20. which 20. take from 29. (for Aprill hath but 30. daies) ſo reſt 9. ſo I ſay the the Moone chaungeth the 9. of aprill 1594. By which rule you may know the chaunge alwayes, by hart knowing the Epact.</p>
+            </div>
+            <div type="rule">
+               <head>An other rule for the chaunge of the Moone by the Pryme number.</head>
+               <p>LOoke in the table made of purpoſe, on y<hi rend="sup">e</hi> other ſide of this leafe, for the golde<g ref="char:cmbAbbrStroke">̄</g> nu<g ref="char:cmbAbbrStroke">̄</g>ber, or prime for the yeere, where you ſhall finde for euerie yeere the ſeuerall prime or golden number: hauing fou<g ref="char:cmbAbbrStroke">̄</g>d it, looke in that month wherin you wil know when the moone changeth, for the ſame prime nu<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ber, which prime number ſtandeth firſt in euerie leafe, vnder y<hi rend="sup">e</hi> name of prime, &amp; right againſt that day where the prime number ſtandeth, on that day the Moone chaungeth: as for example, I woulde knowe on what day of the month of Ianuary 1594 the moone chaungeth? Looke in y<hi rend="sup">e</hi> table for the yere 1594. againſt which yeere ſtandeth the prime nu<g ref="char:cmbAbbrStroke">̄</g>ber which is xviij. the<g ref="char:cmbAbbrStroke">̄</g> turne to Ianuary, &amp; looke down along the numbers ſta<g ref="char:cmbAbbrStroke">̄</g>ding vnder prime, for xviij which is againſt y<hi rend="sup">e</hi> xij. day of Ianuarie, on which day the moone chaungeth, ſo that by this rule you ſhall know when the moone will change any yeere to come, when you know the prime number. Note that y<hi rend="sup">e</hi> ful moone is xiiij. daies .18. houres after the chaunge, the quarter is vij. dayes ix. houres.</p>
+               <pb facs="tcp:23531:3" rendition="simple:additions"/>
+            </div>
+            <div type="calendars">
+               <p>
+                  <table>
+                     <head>Ianuary hath .xxxi. dayes.</head>
+                     <row>
+                        <cell role="label">
+                           <hi>Prime.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>1</cell>
+                        <cell>A</cell>
+                        <cell>Circumciſion of Chriſte.</cell>
+                     </row>
+                     <row>
+                        <cell>viij</cell>
+                        <cell>2</cell>
+                        <cell>b</cell>
+                        <cell>The firſt day, ſun ryſeth at .8. ſetteth at at 4.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>3</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>4</cell>
+                        <cell>d</cell>
+                        <cell>The 8. day, ſun ryſeth 50. minutes after .7. ſetteth .10. minuts after .4.</cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>5</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>6</cell>
+                        <cell>f</cell>
+                        <cell>The 16. day, ſun riſeth 40, minuts af<g ref="char:EOLhyphen"/>ter 7. ſetteth 20. minuts after 4.</cell>
+                     </row>
+                     <row>
+                        <cell>xiij</cell>
+                        <cell>7</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ij</cell>
+                        <cell>8</cell>
+                        <cell>A</cell>
+                        <cell>The 18. day, ſun ryſeth 25. minuts af<g ref="char:EOLhyphen"/>ter 7. ſetteth 35. minuts after .4.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>9</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>10</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>11</cell>
+                        <cell>d</cell>
+                        <cell>Note that there are 60. minuts in the howre.</cell>
+                     </row>
+                     <row>
+                        <cell>xviij</cell>
+                        <cell>12</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vij</cell>
+                        <cell>13</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>14</cell>
+                        <cell>g</cell>
+                        <cell>∥ A rule to finde the mooueable feaſtes of the whole yeere.</cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>15</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iii</cell>
+                        <cell>16</cell>
+                        <cell>b</cell>
+                        <cell>Looke in the Table for the finding of Eaſter, hauing found what day Eaſter falleth on, Shroue ſunday is the .vij. ſunday before the next wedneſday, af<g ref="char:EOLhyphen"/>ter that is Aſhwedneſday: and the .vij. ſunday after Eaſter is Whitſun<g ref="char:EOLhyphen"/>day: and the next ſunday after Whitſu<g ref="char:cmbAbbrStroke">̄</g>
+                           <g ref="char:EOLhyphen"/>day is Trinitie ſunday: and the .v. ſun<g ref="char:EOLhyphen"/>day after Eaſter, is Rogation ſunday, and fowre dayes after Rogation ſun<g ref="char:EOLhyphen"/>day, is Aſcention day.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>17</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xij</cell>
+                        <cell>18</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>19</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>20</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>21</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>22</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvij</cell>
+                        <cell>23</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>24</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>25</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiiij</cell>
+                        <cell>26</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iij</cell>
+                        <cell>27</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>28</cell>
+                        <cell>g</cell>
+                        <cell>Twelfe day, Fayre at Salſburie.</cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>29</cell>
+                        <cell>A</cell>
+                        <cell>The .xxiiij. day, the Conuerſio<g ref="char:cmbAbbrStroke">̄</g> of Paul. Fayres at Braues end, at Briſtow.</cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>30</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>viii</cell>
+                        <cell>31</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <pb facs="tcp:23531:4"/>
+                  <table>
+                     <head>Februarie hath .xxviii. dayes.</head>
+                     <row>
+                        <cell role="label">
+                           <hi>Prime.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>1</cell>
+                        <cell>d</cell>
+                        <cell>The .2. day, ſunne riſeth .9. minutes af<g ref="char:EOLhyphen"/>ter 7. ſetteth 51. minutes after .4.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>2</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>3</cell>
+                        <cell>f</cell>
+                        <cell>The 8. day. ſun ryſeth 58. minutes af<g ref="char:EOLhyphen"/>ter 6. ſetteth 2. minutes after 5.</cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>4</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiii</cell>
+                        <cell>5</cell>
+                        <cell>A</cell>
+                        <cell>The 16. day, ſunne ryſeth 60. minutes after 6. ſetteth 20. minuts after 5.</cell>
+                     </row>
+                     <row>
+                        <cell>ij</cell>
+                        <cell>6</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>7</cell>
+                        <cell>c</cell>
+                        <cell>The 24. day, ſunne ryſeth 30. minutes after 6. ſetteth 30. minuts after 5.</cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>8</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>9</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>viij</cell>
+                        <cell>10</cell>
+                        <cell>f</cell>
+                        <cell>The yeere hath by the courſe of y<hi rend="sup">e</hi> ſun, 12. Monthes, by courſe of the Moone 13. monthes: of weekes 52. of dayes 365. dayes, and 6. howres, which euery .4 yeere maketh a day more, which is the leape yeere: And there is in the yeere 4386. howres.</cell>
+                     </row>
+                     <row>
+                        <cell>xij</cell>
+                        <cell>11</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>12</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>13</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iiij</cell>
+                        <cell>14</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>15</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xii</cell>
+                        <cell>16</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>17</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>18</cell>
+                        <cell>g</cell>
+                        <cell>The firſt day at Bromley. The 2. day beeing Candelmas day at Maidſtone, at Bathe, at Linne, at Bickelſwoorth, at Landwoorth, at Reading.</cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>19</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>20</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvii</cell>
+                        <cell>21</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>22</cell>
+                        <cell>d</cell>
+                        <cell>S. Valentine, at Feuerſham.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>23</cell>
+                        <cell>e</cell>
+                        <cell>On Aſhwedneſdaye, at Lychfielde, at Tamwoorth, at Royſtone, at Dun<g ref="char:EOLhyphen"/>ſtable, at Exceter, at Abington, at Cy<g ref="char:EOLhyphen"/>ceter.</cell>
+                     </row>
+                     <row>
+                        <cell>xiiii</cell>
+                        <cell>24</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iii</cell>
+                        <cell>25</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>26</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>27</cell>
+                        <cell>b</cell>
+                        <cell>The .xxiiii. day S. Matthias, at Henly vpon Thames at Tewekſbury, at Baldocke.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>28</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <pb facs="tcp:23531:4"/>
+                  <table>
+                     <head>Marche hath .xxxi. dayes.</head>
+                     <row>
+                        <cell role="label">Prime,</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>1</cell>
+                        <cell>d</cell>
+                        <cell>The firſt day the ſun ryſeth 18. minuts after 6. ſetteth 24. minuts after .5. The 10. day, ſunne ryſeth at 6. ſetteth at 6.</cell>
+                     </row>
+                     <row>
+                        <cell>viii</cell>
+                        <cell>2</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>3</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>4</cell>
+                        <cell>g</cell>
+                        <cell>The 17, day, ſunne ryſeth 47. minuts af<g ref="char:EOLhyphen"/>ter 5. ſetteth 13. minutes after 6. The 24. day, ſunne ryſeth 30. minutes after .5 ſetteth 30. minutes after 6.</cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>5</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>6</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiii</cell>
+                        <cell>7</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ii</cell>
+                        <cell>8</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>9</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>10</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>11</cell>
+                        <cell>g</cell>
+                        <cell>The .xii. day, at Sta<g ref="char:cmbAbbrStroke">̄</g>ford, at Sudbury.</cell>
+                     </row>
+                     <row>
+                        <cell>xviij</cell>
+                        <cell>12</cell>
+                        <cell>A</cell>
+                        <cell>The .xiii. day, at Wye, at the Mount, at Bodmin in Cornewal.</cell>
+                     </row>
+                     <row>
+                        <cell>vii</cell>
+                        <cell>13</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>14</cell>
+                        <cell>c</cell>
+                        <cell>The .v. Sunday in Lent, at Grantham at Saliſburie, at Hereforde.</cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>15</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iiii</cell>
+                        <cell>16</cell>
+                        <cell>e</cell>
+                        <cell>The Munday before the Annunciatio<g ref="char:cmbAbbrStroke">̄</g> of Mary, at Wiſhich, at Kendale, at Denbigh in Wales.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>17</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xii</cell>
+                        <cell>18</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>19</cell>
+                        <cell>A</cell>
+                        <cell>On Midlent Sunday, at Saffron Wal<g ref="char:EOLhyphen"/>den in Eſſex, at Odiham.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>20</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>21</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>22</cell>
+                        <cell>d</cell>
+                        <cell>On Palme ſunday euen, at Pomfret.</cell>
+                     </row>
+                     <row>
+                        <cell>xvii</cell>
+                        <cell>23</cell>
+                        <cell>e</cell>
+                        <cell>On Palme ſunday, at Worceſter.</cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>24</cell>
+                        <cell>f</cell>
+                        <cell>The .xx. day, at Durham.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>25</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiiii</cell>
+                        <cell>26</cell>
+                        <cell>A</cell>
+                        <cell>The .xxv. day, being the Anunciation of our Lady, at Northa<g ref="char:cmbAbbrStroke">̄</g>pton, at Mal<g ref="char:EOLhyphen"/>den, at great Chart, at Newcaſtle,</cell>
+                     </row>
+                     <row>
+                        <cell>iii</cell>
+                        <cell>27</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>28</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xi.</cell>
+                        <cell>29</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>30</cell>
+                        <cell>e</cell>
+                        <cell>Generally all the Lady dayes: fayres at Huntington.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>31</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <pb facs="tcp:23531:5"/>
+                  <table>
+                     <head>April hath .xxx. dayes.</head>
+                     <row>
+                        <cell role="label">
+                           <hi>Prime.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>viij</cell>
+                        <cell>1</cell>
+                        <cell>g</cell>
+                        <cell>The firſt day, ſunne ryſeth 19. minuts after 5. ſetteth 41. minutes after 6.</cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>2</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>3</cell>
+                        <cell>b</cell>
+                        <cell>The 8. day, ſunne ryſeth, 6. minutes af<g ref="char:EOLhyphen"/>ter 5. ſetteth 54. minutes after 6.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>4</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiij</cell>
+                        <cell>5</cell>
+                        <cell>d</cell>
+                        <cell>The 16. day, ſunne ryſeth 51. minutes after 4. ſetteth 9. minutes after 7.</cell>
+                     </row>
+                     <row>
+                        <cell>ij</cell>
+                        <cell>6</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>7</cell>
+                        <cell>f</cell>
+                        <cell>The 24. day, ſunne ryſeth 38. minutes after 4. ſetteth 22. minutes after 7.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>8</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>9</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xviij</cell>
+                        <cell>10</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vij</cell>
+                        <cell>11</cell>
+                        <cell>c</cell>
+                        <cell>The v. day, at Walyngforde.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>12</cell>
+                        <cell>d</cell>
+                        <cell>The vij. day, at Darbie.</cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>13</cell>
+                        <cell>e</cell>
+                        <cell>The ix. day, at Bickelſworth, at Bil<g ref="char:EOLhyphen"/>lingworth.</cell>
+                     </row>
+                     <row>
+                        <cell>iiii</cell>
+                        <cell>14</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>15</cell>
+                        <cell>g</cell>
+                        <cell>The Munday next after, at Eueſham in Worceſter ſhyre.</cell>
+                     </row>
+                     <row>
+                        <cell>xii</cell>
+                        <cell>16</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>17</cell>
+                        <cell>b</cell>
+                        <cell>Tueſday in Eaſterweeke, at North<g ref="char:EOLhyphen"/>fleete, at Rochforde, at Hitchin.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>18</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>jx</cell>
+                        <cell>19</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>20</cell>
+                        <cell>e</cell>
+                        <cell>The thyrde Sunday after Eaſter, at Louth.</cell>
+                     </row>
+                     <row>
+                        <cell>xvij</cell>
+                        <cell>21</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>22</cell>
+                        <cell>g</cell>
+                        <cell>The xxiij. day, being S. Georges day at Charing, at Ipſwich, at Tamworth, at Amptil, at Hinningham, at Gilforde, at S. Pombes in Cornwall.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>23</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiiij</cell>
+                        <cell>24</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iij</cell>
+                        <cell>25</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>26</cell>
+                        <cell>d</cell>
+                        <cell>The xxv. day, being S. Warke the E<g ref="char:EOLhyphen"/>uangeliſts day, at Darvie, at Dunmow in Eſſex.</cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>27</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>28</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>29</cell>
+                        <cell>g</cell>
+                        <cell>The xxvi. day, at Tenterden in Kent.</cell>
+                     </row>
+                     <row>
+                        <cell>viij</cell>
+                        <cell>30</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <pb facs="tcp:23531:5"/>
+                  <table>
+                     <head>May hath .xxxi. dayes.</head>
+                     <row>
+                        <cell role="label">
+                           <hi>Prime.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>1</cell>
+                        <cell>b</cell>
+                        <cell>The firſt day, ſunne ryſeth 26. minuts after 4. ſetteth 34. minutes after 7.</cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>2</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>3</cell>
+                        <cell>d</cell>
+                        <cell>The 8. day ſun riſeth 16. minuts after 4. ſetteth 44. minutes after 7.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>4</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiij</cell>
+                        <cell>5</cell>
+                        <cell>f</cell>
+                        <cell>The 16. day, ſun riſeth 6. minuts after 4. ſetteth 54. minutes after 7.</cell>
+                     </row>
+                     <row>
+                        <cell>ij</cell>
+                        <cell>6</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>7</cell>
+                        <cell>A</cell>
+                        <cell>The 24. day, ſun ryſeth at 4. ſetteth at 8.</cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>8</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>9</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xviij</cell>
+                        <cell>10</cell>
+                        <cell>d</cell>
+                        <cell>The firſt day beeing Philip and Ia<g ref="char:EOLhyphen"/>cob, at Leiceſter, at Reading at Mayd<g ref="char:EOLhyphen"/>ſtone in Kent, at Chenſeford in Eſſex.</cell>
+                     </row>
+                     <row>
+                        <cell>vii</cell>
+                        <cell>11</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>12</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>13</cell>
+                        <cell>g</cell>
+                        <cell>The 7. day at Beuerley, at Oxforde.</cell>
+                     </row>
+                     <row>
+                        <cell>iiij</cell>
+                        <cell>14</cell>
+                        <cell>A</cell>
+                        <cell>On Aſcention day at Newcaſtle, at Yerne, at Bremicham, at ſaint Edes, at Biſhop Stratforde.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>15</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xij</cell>
+                        <cell>16</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>17</cell>
+                        <cell>d</cell>
+                        <cell>On Whitſonday, at Rye hyll: Euery Wedneſday fortnight at Kingſtone vp<g ref="char:EOLunhyphen"/>pon thames.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>18</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>19</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>20</cell>
+                        <cell>g</cell>
+                        <cell>Munday in Whitſo<g ref="char:cmbAbbrStroke">̄</g> weeke, at Daring<g ref="char:EOLhyphen"/>to<g ref="char:cmbAbbrStroke">̄</g>, at Exceter, at Bradford, at Riegate.</cell>
+                     </row>
+                     <row>
+                        <cell>xvij</cell>
+                        <cell>21</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vj</cell>
+                        <cell>22</cell>
+                        <cell>b</cell>
+                        <cell>Tueſday in Whitſon weeke, at Lewes at Rochforth, at Canterbury.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>23</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiiij</cell>
+                        <cell>24</cell>
+                        <cell>d</cell>
+                        <cell>On Trinity Sunday at Kendale, in Weſtmerland, at Rowell.</cell>
+                     </row>
+                     <row>
+                        <cell>iij</cell>
+                        <cell>25</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>26</cell>
+                        <cell>f</cell>
+                        <cell>On Trinity Munday, at Watforde.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>27</cell>
+                        <cell>g</cell>
+                        <cell>On Corpus Chriſti day, at Newbery, at Couentry, at ſaint Edes.</cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>28</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>viij</cell>
+                        <cell>29</cell>
+                        <cell>b</cell>
+                        <cell>The 19. day, at Rocheſter, at Dunſtable:</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>30</cell>
+                        <cell>c</cell>
+                        <cell>The 29. at Crambrooke.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </cell>
+                        <cell>31</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <pb facs="tcp:23531:6"/>
+                  <table>
+                     <head>Iune hath .xxx. dayes</head>
+                     <row>
+                        <cell role="label">
+                           <hi>Prime.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>1</cell>
+                        <cell>e</cell>
+                        <cell>The firſt day, ſun ryſeth 54. minuts af<g ref="char:EOLhyphen"/>ter 3. ſetteth 6. minutes after 8.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>2</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiii</cell>
+                        <cell>3</cell>
+                        <cell>g</cell>
+                        <cell>The 11. day, ſun ryſeth 15. minuts after 3. ſetteth 15. minutes after 8.</cell>
+                     </row>
+                     <row>
+                        <cell>ii</cell>
+                        <cell>4</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>5</cell>
+                        <cell>b</cell>
+                        <cell>The 16. day, the ſun ryſeth 50. minuts after 3. ſetteth 10. minuts after 8.</cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>6</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xviii</cell>
+                        <cell>7</cell>
+                        <cell>d</cell>
+                        <cell>The 24. day, ſun ryſeth 54. minuts af<g ref="char:EOLhyphen"/>ter 3. ſetteth 6. minutes after 8.</cell>
+                     </row>
+                     <row>
+                        <cell>vii</cell>
+                        <cell>8</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>9</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>10</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>11</cell>
+                        <cell>A</cell>
+                        <cell>The 11. day, the longeſt day</cell>
+                     </row>
+                     <row>
+                        <cell>iiii</cell>
+                        <cell>12</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>13</cell>
+                        <cell>c</cell>
+                        <cell>The 9. day, at Maydſtone in Kent.</cell>
+                     </row>
+                     <row>
+                        <cell>xii</cell>
+                        <cell>14</cell>
+                        <cell>d</cell>
+                        <cell>The 11. day, at Okingham.</cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>15</cell>
+                        <cell>e</cell>
+                        <cell>The 23. day, at Shroweſbury, at ſaint Albones.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>16</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>17</cell>
+                        <cell>g</cell>
+                        <cell>The 24. day, beeing Midſomer day, at ſaint Annes, at Wakefeelde, at Colcheſ<g ref="char:EOLhyphen"/>ter, at Croyden, at Bedford, at Reading, at Barnewell beſyde Cambridge, at Wolnerhampton, at Crambroke in Kent at Lincoln, at Gloceſter, at Peterborow, at Winſore, at Harſtowe in Suffolke, at Lancaſter, at Weſtcheſter, at Halifax, at Aſhburne in Darbiſhyre.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>18</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvii</cell>
+                        <cell>19</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>20</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>21</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiiii</cell>
+                        <cell>22</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iii</cell>
+                        <cell>23</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>24</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>25</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>26</cell>
+                        <cell>b</cell>
+                        <cell>The 30. day, beeing ſaint Peters day. at Woodhurſt, at Marleborow, at Hol<g ref="char:EOLhyphen"/>leſworth, at Woluerhampton, at Peter<g ref="char:EOLhyphen"/>feelde, at Lemſter, at Sudbury in Suf<g ref="char:EOLhyphen"/>folke, at Gargra<g ref="char:cmbAbbrStroke">̄</g>ge, at Bromeley in La<g ref="char:EOLhyphen"/>caſhire. <gap reason="illegible" resp="#UOM" extent="2 words">
+                              <desc>〈◊◊〉</desc>
+                           </gap> Knotſford in Cheſhire.</cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>27</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>28</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>viiii</cell>
+                        <cell>29</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>30</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <pb facs="tcp:23531:6"/>
+                  <table>
+                     <head>Iuly hath .xxxi. dayes.</head>
+                     <row>
+                        <cell role="label">
+                           <hi>Prime.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>1</cell>
+                        <cell>g</cell>
+                        <cell>The firſt day, ſun ryſeth 58. minuts af<g ref="char:EOLhyphen"/>ter 3. ſetteth <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. minutes after <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>2</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiij</cell>
+                        <cell>3</cell>
+                        <cell>b</cell>
+                        <cell>The 8. day, ſun ryſeth 2. minutes after 4. ſetteth 58. minutes after 7.</cell>
+                     </row>
+                     <row>
+                        <cell>ij</cell>
+                        <cell>4</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>5</cell>
+                        <cell>d</cell>
+                        <cell>The 16. day, ſun ryſeth 16. minutes af<g ref="char:EOLhyphen"/>ter 4. ſetteth 44. minutes after 7.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>6</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xviij</cell>
+                        <cell>7</cell>
+                        <cell>f</cell>
+                        <cell>The 24. day, ſunne ryſeth 30. minutes after 4. ſetteth 30. minutes after 7.</cell>
+                     </row>
+                     <row>
+                        <cell>vij</cell>
+                        <cell>8</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>9</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>10</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>11</cell>
+                        <cell>c</cell>
+                        <cell>The 15. day, at Pinchbacke.</cell>
+                     </row>
+                     <row>
+                        <cell>iiij</cell>
+                        <cell>12</cell>
+                        <cell>d</cell>
+                        <cell>The 17. day, at Winchcombe.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>13</cell>
+                        <cell>e</cell>
+                        <cell>The 20. day, at Uxbridge.</cell>
+                     </row>
+                     <row>
+                        <cell>xij</cell>
+                        <cell>14</cell>
+                        <cell>f</cell>
+                        <cell>The 22. day, at Marleborowe, at Wincheſter, at Colcheſter, at Tetburie, at Bridgenorth, at Battlefeelde by Shreweſburie, at Bickelſwoorth.</cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>15</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>16</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>17</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>18</cell>
+                        <cell>c</cell>
+                        <cell>The 25. day, beeing Saint Iames the Apoſtles day, at ſaint Iames nigh Lo<g ref="char:cmbAbbrStroke">̄</g>
+                           <g ref="char:EOLhyphen"/>don, at Douer, at Briſtowe, at Chilham, at Ipſwich, at Darby, at Northampton, at Du<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ley in Staffordſhyre, at Rea<g ref="char:EOLhyphen"/>ding, at Louth, at Malmſeburie, at Bromeley, at Cheſter, at Lyuerpoole in Lancaſhyre, at Aldergam in Cheſhyre, at Rauenglaſſe in the North.</cell>
+                     </row>
+                     <row>
+                        <cell>xvij</cell>
+                        <cell>19</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>20</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>21</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiiij</cell>
+                        <cell>22</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iij</cell>
+                        <cell>23</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>24</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>25</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>26</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>viij</cell>
+                        <cell>27</cell>
+                        <cell>e</cell>
+                        <cell>The 27. day, at Canterbury, at Hor<g ref="char:EOLhyphen"/>ſham, at Ritchmo<g ref="char:cmbAbbrStroke">̄</g>d in the North, at Wa<g ref="char:EOLhyphen"/>rington in Lancaſhire, at Chappel Frith in Darbiſhire.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>28</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>29</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>30</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <pb facs="tcp:23531:7"/>
+                  <table>
+                     <head>Auguſt hath .xxxi. dayes.</head>
+                     <row>
+                        <cell role="label">
+                           <hi>
+                              <gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ime.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ii</cell>
+                        <cell>1</cell>
+                        <cell>c</cell>
+                        <cell>The firſt day, ſun ryſeth 40. minutes after 4. ſetteth 20. minuts after 7.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </cell>
+                        <cell>2</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>3</cell>
+                        <cell>e</cell>
+                        <cell>The 8. day, ſun ryſeth 51. minutes af<g ref="char:EOLhyphen"/>ter 4. ſetteth 9. minuts after 7.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </cell>
+                        <cell>4</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xviij</cell>
+                        <cell>5</cell>
+                        <cell>g</cell>
+                        <cell>The 16. day, ſun ryſeth 6. minuts af<g ref="char:EOLhyphen"/>ter 5. ſetteth 54. minuts after 6.</cell>
+                     </row>
+                     <row>
+                        <cell>vij</cell>
+                        <cell>6</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>7</cell>
+                        <cell>b</cell>
+                        <cell>The 24. day, ſun ryſeth 20. minuts af<g ref="char:EOLhyphen"/>ter 5. ſetteth 30. minuts after 6.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>8</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>9</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iiij</cell>
+                        <cell>10</cell>
+                        <cell>e</cell>
+                        <cell>The firſt day of Auguſt being La<g ref="char:cmbAbbrStroke">̄</g>mas day, at Feuerſham, at Exceter, at Dun<g ref="char:EOLhyphen"/>ſtable, at S. Edes, at Bedford, at York, at Rumney.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>11</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xij</cell>
+                        <cell>12</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>13</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>14</cell>
+                        <cell>b</cell>
+                        <cell>The .x. daye, at Waltham, at Blacka<g ref="char:EOLhyphen"/>more, at Hungerfoorde, at Bedford, at Stroides, at Farnam, at S. Laurence by Bodmin, at Walton, at Croyly in Lancaſhire, at Seddell in Yorkeſhyre, at Frodeſham in Cheſhyre, at newe Braineforde,</cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>15</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>16</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvii</cell>
+                        <cell>17</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>18</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>19</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiiij</cell>
+                        <cell>20</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iii</cell>
+                        <cell>21</cell>
+                        <cell>b</cell>
+                        <cell>The .xv. day, at Dunmowe in Eſſex at Carlile, at Preſton in Lancaſhire, at Wakefeelde both the Ladye dayes.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>22</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>23</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>24</cell>
+                        <cell>e</cell>
+                        <cell>The .xxiiii. daye, being Bartholomew the apoſtles day, at Londo<g ref="char:cmbAbbrStroke">̄</g>, at Tukeſ<g ref="char:EOLhyphen"/>burie, at Beggers buſh beſyde Rye, at Sudburie, at Norwich, at Northaler<g ref="char:EOLhyphen"/>ton, at Douer, at Rie, at Nantwich in Cheſhire, at Pagets in Bromlie.</cell>
+                     </row>
+                     <row>
+                        <cell>viij</cell>
+                        <cell>25</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>26</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>27</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>28</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>29</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>30</cell>
+                        <cell>d</cell>
+                        <cell>The ,xxvii. day, at Aſhforde.</cell>
+                     </row>
+                     <row>
+                        <cell>xiij</cell>
+                        <cell>31</cell>
+                        <cell>e</cell>
+                        <cell>The ,xxix. day at Watforde.</cell>
+                     </row>
+                  </table>
+                  <pb facs="tcp:23531:7"/>
+                  <table>
+                     <head>September hath .xxx. dayes.</head>
+                     <row>
+                        <cell role="label">
+                           <hi>Prime.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ij</cell>
+                        <cell>1</cell>
+                        <cell>f</cell>
+                        <cell>The firſt day, the ſun ryſeth 36. minuts after 5. ſetteth 24. minutes after 6.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>2</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>3</cell>
+                        <cell>A</cell>
+                        <cell>The 8. day, ſun riſeth 49. minutes af<g ref="char:EOLhyphen"/>ter 5. ſetteth 11. minuts after 6.</cell>
+                     </row>
+                     <row>
+                        <cell>xviij</cell>
+                        <cell>4</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vii</cell>
+                        <cell>5</cell>
+                        <cell>c</cell>
+                        <cell>The 13. day, ſun riſeth at 6. ſetteth at 6.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>6</cell>
+                        <cell>d</cell>
+                        <cell>The 24. day, ſun ryſeth 23. minutes af<g ref="char:EOLhyphen"/>ter 6. ſetteth 37. minutes after 5.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>7</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>8</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iiij</cell>
+                        <cell>9</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>10</cell>
+                        <cell>A</cell>
+                        <cell>The fyrſt day, at S. Gyles in the buſh.</cell>
+                     </row>
+                     <row>
+                        <cell>xij</cell>
+                        <cell>11</cell>
+                        <cell>b</cell>
+                        <cell>The .8. daye, beeing the Natiuitie of Marie, at Wakefeeld, at Sturbridge, at Southwark nigh London, at Recoluer.</cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>12</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>13</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>14</cell>
+                        <cell>e</cell>
+                        <cell>The .xiiij. daye, at Richmond in York<g ref="char:EOLhyphen"/>ſhyre, at Waltam Abbey, at Walten vn<g ref="char:EOLhyphen"/>der hedge, at Cheſterfeelde in Darbi<g ref="char:EOLhyphen"/>ſhyre, at Smalding, at Denbighe in Wales.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>15</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvij</cell>
+                        <cell>16</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>17</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>18</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiij</cell>
+                        <cell>19</cell>
+                        <cell>c</cell>
+                        <cell>The .21. day, being S. Mathewes day, at Marleborow, at Bedford, at Croido<g ref="char:cmbAbbrStroke">̄</g>, at Holden in Holdernes, at Saint Ed<g ref="char:EOLhyphen"/>mondes bury, at Malton, at Baldocke, at ſaint Iues, at Shreweſbury, at Len<g ref="char:EOLhyphen"/>ham, at Syttingborne, at Brayntree, at Katterne hyll beſide Gilforde, at new Brainforde, at Douer, at Wendouer.</cell>
+                     </row>
+                     <row>
+                        <cell>iij</cell>
+                        <cell>20</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>21</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>22</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>23</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>24</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>viij</cell>
+                        <cell>25</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>26</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvj</cell>
+                        <cell>27</cell>
+                        <cell>d</cell>
+                        <cell>The .29. day, being Michaell Archan<g ref="char:EOLhyphen"/>gels day, at Weſtcheſter, at Lancaſter, at Malden, an horſe Fayre, at Wayhyll, at Leyceſter, at Newbery, at Baſingſtoke.</cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>28</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiij</cell>
+                        <cell>29</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ij</cell>
+                        <cell>30</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <pb facs="tcp:23531:8"/>
+                  <table>
+                     <head>October hath .xxxi. dayes.</head>
+                     <row>
+                        <cell role="label">
+                           <hi>Prime.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>1</cell>
+                        <cell>A</cell>
+                        <cell>The firſt day, the ſun ryſeth 36. minuts after 6. ſetteth 24. minuts after 5.</cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>2</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>3</cell>
+                        <cell>c</cell>
+                        <cell>The 8. day, ſun ryſeth 47. minuts af<g ref="char:EOLhyphen"/>ter 6. ſetteth 13. minuts after 5.</cell>
+                     </row>
+                     <row>
+                        <cell>xviij</cell>
+                        <cell>4</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vij</cell>
+                        <cell>5</cell>
+                        <cell>e</cell>
+                        <cell>The 16. day, ſun ryſeth 3. minutes af<g ref="char:EOLhyphen"/>ter 7. ſetteth 13. minutes after 4.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>6</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>7</cell>
+                        <cell>g</cell>
+                        <cell>The 24. day, ſun ryſeth 19. munites af<g ref="char:EOLhyphen"/>ter 7 ſetteth 41. minutes after 4.</cell>
+                     </row>
+                     <row>
+                        <cell>iiij</cell>
+                        <cell>8</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>9</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xij</cell>
+                        <cell>10</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>11</cell>
+                        <cell>d</cell>
+                        <cell>The .6. daye at Saint Faithes, beſide Norwiche, and at Maidſtone.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>12</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>13</cell>
+                        <cell>f</cell>
+                        <cell>The .8. daye, at Harford, at Harborow, at Biſhop Stratforde.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>14</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvij</cell>
+                        <cell>15</cell>
+                        <cell>A</cell>
+                        <cell>The .13. day, at Graueſende at Winſor, at Marſfeeld, at Colcheſter.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>16</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>17</cell>
+                        <cell>c</cell>
+                        <cell>The .18. day, being ſaint Luke Euan<g ref="char:EOLhyphen"/>geliſtes day, at Ely, at Bridgenorth, at Stanton, at Charing, at Burton vppon Trent, at Friſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>wives in Oxforde.</cell>
+                     </row>
+                     <row>
+                        <cell>xiiij</cell>
+                        <cell>18</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iij</cell>
+                        <cell>19</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>20</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>21</cell>
+                        <cell>g</cell>
+                        <cell>The .21. daye at Safforn Walden, at Newmarket, at Hattforde, at Ciceſter &amp; at Stokeſley.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>22</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>23</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>viii</cell>
+                        <cell>24</cell>
+                        <cell>c</cell>
+                        <cell>The .23. day, at Preſton, at Richdale in Lancaſhyre, at Bickelſwoorthe, at lower Knotſforth in Cheſhyre, at Whyt<g ref="char:EOLhyphen"/>church in Shropſhyre.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>25</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvj</cell>
+                        <cell>26</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>27</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>28</cell>
+                        <cell>g</cell>
+                        <cell>Simon and Iude.</cell>
+                     </row>
+                     <row>
+                        <cell>xiij</cell>
+                        <cell>29</cell>
+                        <cell>A</cell>
+                        <cell>The 30. day, being all Saints euen, at Wakefeelde in Yorkſhyre, at Reythen in Wales,</cell>
+                     </row>
+                     <row>
+                        <cell>ij</cell>
+                        <cell>30</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>31</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <pb facs="tcp:23531:8"/>
+                  <table>
+                     <head>Nouember hath .xxx. dayes.</head>
+                     <row>
+                        <cell role="label">
+                           <hi>Prime.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>1</cell>
+                        <cell>d</cell>
+                        <cell>All Saintes.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>2</cell>
+                        <cell>e</cell>
+                        <cell>The firſt day, ſun ryſeth 30. minutes after .7. ſetteth 30. minutes after 4.</cell>
+                     </row>
+                     <row>
+                        <cell>xviij</cell>
+                        <cell>3</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vij</cell>
+                        <cell>4</cell>
+                        <cell>g</cell>
+                        <cell>The 8. day, ſun ryſeth 42. minutes af<g ref="char:EOLhyphen"/>ter 7. ſetteth 18. minuts after 4.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>5</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>6</cell>
+                        <cell>b</cell>
+                        <cell>The 16. day, ſun ryſeth 51. minutes af<g ref="char:EOLhyphen"/>ter 7. ſetteth 4. minutes after 3.</cell>
+                     </row>
+                     <row>
+                        <cell>iiij</cell>
+                        <cell>7</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>8</cell>
+                        <cell>d</cell>
+                        <cell>The 24. day, ſunne ryſeth at <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. ſetteth at 4.</cell>
+                     </row>
+                     <row>
+                        <cell>xij</cell>
+                        <cell>9</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>10</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>11</cell>
+                        <cell>g</cell>
+                        <cell>All ſoules, at Blac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ingley, at Kingſton.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>12</cell>
+                        <cell>A</cell>
+                        <cell>S. Leonarde, at <gap reason="illegible" resp="#UOM" extent="2 words">
+                              <desc>〈◊◊〉</desc>
+                           </gap> New<g ref="char:EOLhyphen"/>port ponde, at Tr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ney, in Cornewale, at Salforth, at Leſforde in Lancaſhyre. Martin biſhop, at Lenton, at Marlebo<g ref="char:EOLhyphen"/>row, at Douer.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>13</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvij</cell>
+                        <cell>14</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vj</cell>
+                        <cell>15</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>16</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiiij</cell>
+                        <cell>17</cell>
+                        <cell>f</cell>
+                        <cell>S. Hugh. <hi>Init. Reg. Eliz.</hi> at Harow, at Hyde.</cell>
+                     </row>
+                     <row>
+                        <cell>iij</cell>
+                        <cell>18</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>19</cell>
+                        <cell>A</cell>
+                        <cell>Brice, at S. Edmunds burie, at Gyl<g ref="char:EOLhyphen"/>forde.</cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>20</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>21</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>viij</cell>
+                        <cell>22</cell>
+                        <cell>d</cell>
+                        <cell>S. Elizabeth, at Horſham.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>23</cell>
+                        <cell>e</cell>
+                        <cell>Edmund king, at Hide, at Ingerſton.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>24</cell>
+                        <cell>f</cell>
+                        <cell>S. Clement, at Sandwich.</cell>
+                     </row>
+                     <row>
+                        <cell>xvj</cell>
+                        <cell>25</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>26</cell>
+                        <cell>A</cell>
+                        <cell>The, 30. day, being ſaint Andrewe the Apoſtles day, at Colyngborowe, at Ro<g ref="char:EOLhyphen"/>cheſter, at Peterfeeld, at Maydenhead, at Warington in Lancaſhyre, at Bewd<g ref="char:EOLhyphen"/>ley, at Bareforde in Yorkſhyre, at Oſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rie in Wales.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>27</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiij</cell>
+                        <cell>28</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>29</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ij</cell>
+                        <cell>30</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <pb facs="tcp:23531:9" rendition="simple:additions"/>
+                  <table>
+                     <head>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </head>
+                     <row>
+                        <cell role="label">
+                           <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </cell>
+                        <cell>1</cell>
+                        <cell>f</cell>
+                        <cell>The firſt day, ſun ryſeth 6. minutes af<g ref="char:EOLhyphen"/>ter 8. ſetteth 54. minutes after 3.</cell>
+                     </row>
+                     <row>
+                        <cell>xviii</cell>
+                        <cell>2</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vij</cell>
+                        <cell>3</cell>
+                        <cell>A</cell>
+                        <cell>The 8. day, ſun ryſeth 10. minuts af<g ref="char:EOLhyphen"/>ter 8. ſetteth 50. minutes <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>fter 3.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>4</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>5</cell>
+                        <cell>c</cell>
+                        <cell>The 13. day, ſun ryſeth 15. minutes af<g ref="char:EOLhyphen"/>ter 4. ſetteth 45. minuts after 3.</cell>
+                     </row>
+                     <row>
+                        <cell>iiii</cell>
+                        <cell>6</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>7</cell>
+                        <cell>e</cell>
+                        <cell>The 24. day. ſun ryſeth 5. min. after 8. ſetteth 55. minuts after 3.</cell>
+                     </row>
+                     <row>
+                        <cell>xii</cell>
+                        <cell>8</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>9</cell>
+                        <cell>g</cell>
+                        <cell>The 13. day the ſhorteſt day.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>10</cell>
+                        <cell>A</cell>
+                        <cell>∥ To make cleane your Tables, when they are written on.</cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>11</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>12</cell>
+                        <cell>c</cell>
+                        <cell>Take a lyttle peece of a Spunge, or a Linnen cloath, being cleane without a<g ref="char:EOLhyphen"/>ny ſoyle: wet it in water, and wring it hard, &amp; wipe that you haue wryten very lightly, and it wyll out, and within one quarter of an howre, you maye write in the ſame place agayne<g ref="char:punc">▪</g> put not your leaues togethr, whylſt they be very wet with wyping. <gap reason="blank" extent="1+ words">
+                              <desc> _____ </desc>
+                           </gap> Faſt.</cell>
+                     </row>
+                     <row>
+                        <cell>xvii.</cell>
+                        <cell>13</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>14</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>15</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiiii</cell>
+                        <cell>16</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iii.</cell>
+                        <cell>17</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>18</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>19</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>20</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>21</cell>
+                        <cell>e</cell>
+                        <cell>Thomas Apoſtle.</cell>
+                     </row>
+                     <row>
+                        <cell>viii</cell>
+                        <cell>22</cell>
+                        <cell>f</cell>
+                        <cell>The .vj. day, at Spalding, at Sinock at Exceter, at Arndale.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>23</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>24</cell>
+                        <cell>A</cell>
+                        <cell>Faſt.</cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>25</cell>
+                        <cell>b</cell>
+                        <cell>Chriſtmaſſe day.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>26</cell>
+                        <cell>c</cell>
+                        <cell>Saint Stephen.</cell>
+                     </row>
+                     <row>
+                        <cell>xiii</cell>
+                        <cell>27</cell>
+                        <cell>d</cell>
+                        <cell>John Euangeliſt.</cell>
+                     </row>
+                     <row>
+                        <cell>ii</cell>
+                        <cell>28</cell>
+                        <cell>e</cell>
+                        <cell>Innocentes day.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>29</cell>
+                        <cell>f</cell>
+                        <cell>The .xxix. day, at Canterbury, at Sa<g ref="char:EOLhyphen"/>liſbury.</cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>30</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>11</cell>
+                        <cell>A</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb facs="tcp:23531:9" rendition="simple:additions"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
